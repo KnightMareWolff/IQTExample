@@ -3,7 +3,7 @@ Example Project of the IQT Unreal Plugin
 
 ![IQT Logo - Insane Queue & Task](http://insaneframework.com/wp-content/uploads/2025/08/Ex01.png)
 
-# Welcome to the Blueprint example of how to use the IQT Unreal Plugin.
+# Welcome to the Blueprint example of the IQT Unreal Plugin.
 
 ## This example was created using the Unreal Engine Third Person template and contains code created only in the following Blueprints:
 
