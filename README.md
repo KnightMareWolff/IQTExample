@@ -14,3 +14,5 @@ Example Project of the IQT Unreal Plugin
 03 - GA_Patrol and GA_GotoLocation - That executes a patrol ability.
 
 ## To view the example, simply press Play and watch the enemy execute the Patrol Ability in BeginPlay.
+
+### To run this example you must have the IQT - Insane Queue & Task plugin Installed.
